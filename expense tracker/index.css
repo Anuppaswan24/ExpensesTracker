@@ -1,0 +1,71 @@
+.container{
+    border: 2px solid #000000;
+    text-align: center;
+    height: 300px;
+    width: 460px;
+    margin: auto;
+    background-color: grey;
+    border-radius: 34px;
+    position: relative;
+    top: 30px;
+    background-color: rgba(0, 0, 0, 0.3);
+    
+}
+h1{
+    color: rgba(23, 135, 200, 0.849);
+    text-align: center;
+    /* text-shadow: #000000; */
+    position: relative;
+    top: 10px;
+    display: inline;
+    background-color: rgba(17, 58, 220, 0.145) ;
+    font-size: 55px;
+    font-weight: bold;
+    }
+h2{
+    color:orangered
+    /* display: inline; */
+    /* background-color: rgba(17, 58, 220, 0.145) ; */
+}
+body{
+    
+    background-image: url(Picture3.JPG);
+}
+div{
+    margin: 20px;
+}
+#amount{
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+#description{
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;  
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.btn{
+    border-radius: 30px;
+    text-align: center; 
+    background-color: rgba(0, 0, 0, 0.3);
+}
+#category{
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgba(25, 231, 238, 0.3);
+    
+}
+label{
+    font-size: 18px;
+    /* background-color: rgb(235, 135, 212); */
+    color:rgba(189, 226, 230, 0.866);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+input{
+    font-weight: bold;
+    color: grey;
+}
